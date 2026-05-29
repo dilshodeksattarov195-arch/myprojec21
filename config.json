@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvalidate",
+        "uuid": 127176,
+        "checksum": "lv2mxq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
